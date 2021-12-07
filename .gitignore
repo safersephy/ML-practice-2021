@@ -1,0 +1,9 @@
+
+TS/data/train.csv
+TS/data/transactions.csv
+TS/data/test.csv
+TS/data/stores.csv
+TS/data/sample_submission.csv
+TS/data/oil.csv
+TS/data/holidays_events.csv
+TS/store-sales-time-series-forecasting.zip
