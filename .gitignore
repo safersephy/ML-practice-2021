@@ -9,3 +9,5 @@ TS/data/holidays_events.csv
 TS/store-sales-time-series-forecasting.zip
 .DS_Store
 MNIST/.DS_Store
+TS/submission.csv
+.DS_Store
