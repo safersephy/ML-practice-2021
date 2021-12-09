@@ -7,3 +7,5 @@ TS/data/sample_submission.csv
 TS/data/oil.csv
 TS/data/holidays_events.csv
 TS/store-sales-time-series-forecasting.zip
+.DS_Store
+MNIST/.DS_Store
